@@ -1,0 +1,328 @@
+.border_style{
+			width:100%;
+			margin:0 auto;
+			background:#ffffff;
+			display:normal;
+			border-top:3px #900 solid;
+		}
+.content{
+			width:980px;
+			margin:0 auto;
+			background:#ffffff;
+			display:normal;
+		}
+		.menu-left{
+			float:left;
+			width:214px;
+			over-flow:hidden;
+		}
+		.menu-right{
+			float:left;
+			width:740px;
+			over-flow:hidden;
+		}
+
+		.menu-top{
+			background:#dfdfe1;
+			border-bottom:#d3d3d3 1px solid;
+			font-size:12px;
+			padding:5px;
+			over-flow:hidden;
+			border-top:#d3d3d3 2px solid;
+		}
+		.menu-selected{
+			background:#f2f2f2;
+			border-bottom:#d3d3d3 1px solid;
+			font-size:12px;
+			padding:5px;
+			over-flow:hidden;
+		}
+		.menu-normal{
+			background:#f2f2f4;
+			border-bottom:#d3d3d3 1px solid;
+			font-size:12px;
+			padding:5px;
+			over-flow:hidden;
+		}
+		.menu-pass{
+			background:#ffffff;
+			border-bottom:#d3d3d3 1px solid;
+			font-size:12px;
+			padding:5px;
+			over-flow:hidden;
+		}
+		.tab-title a{
+			height:25px;
+			line-height:25px;
+			font-size:8px;
+			font-weight:bold;
+			font-family:Arial,"ËÎÌå";
+			padding:5px;
+		}
+		.tab-title a:hover{
+			height:25px;
+			line-height:25px;
+			font-size:8px;
+			font-weight:bold;
+			font-family:Arial,"ËÎÌå";
+			padding:5px;
+			color:#900;
+		}
+		.menu-top a{
+			font-size:12px;
+			font-family:Aril,"ËÎÌå";
+			over-flow:hidden;
+			font-weight:bold;
+			color:#222;
+		}
+		.menu-selected a{
+			font-size:12px;
+			font-family:Aril,"ËÎÌå";
+			over-flow:hidden;
+			font-weight:bold;
+			color:#666;
+		}
+		.menu-normal a{
+			font-size:12px;
+			font-family:Aril,"ËÎÌå";
+			over-flow:hidden;
+			font-weight:bold;
+			color:#666;
+		}
+		.menu-pass a{
+			font-size:12px;
+			font-family:Aril,"ËÎÌå";
+			over-flow:hidden;
+			font-weight:bold;
+			color:#666;
+			margin-left:15px;
+		}
+		.menu-pass a:hover{
+			padding-left:10px;
+			font-size:12px;
+			font-family:Aril,"ËÎÌå";
+			over-flow:hidden;
+			font-weight:bold;
+			color:#222;
+		}
+		.menu-normal a:hover{
+			padding-left:10px;
+			font-size:12px;
+			font-family:Aril,"ËÎÌå";
+			over-flow:hidden;
+			font-weight:bold;
+			color:#222;
+		}
+		.menu-selected a:hover{
+			padding-left:10px;
+			font-size:12px;
+			font-family:Aril,"ËÎÌå";
+			over-flow:hidden;
+			font-weight:bold;
+			color:#222;
+		}
+		.menu-top a:hover{
+			font-size:12px;
+			font-family:Aril,"ËÎÌå";
+			over-flow:hidden;
+			font-weight:bold;
+			color:#900;
+		}
+		.i-function{
+			float:left;
+			width:200px;
+			height:100px;
+			background:#f2f2f4;
+			over-flow:hidden;
+			margin:50px;
+			border:1px solid #d3d3d3;
+		}
+		.function-title{
+			font-weight:bold;
+			font-size:16px;
+			text-align:center;
+			padding:5px;
+			font-family:Arial,"ËÎÌå";
+			letter-spacing:4px;
+		}
+	.content-desc{
+		line-height:25px;
+	  	font-size:12px;
+		font-family:Arial,"ËÎÌå";
+		padding:5px 10px 5px 40px;
+		color:#666;
+		margin-top:10px;
+	}
+
+	/**/
+	#table_list{
+		border:1px solid #666;
+		width:100%;
+		margin-top:10px;
+	}
+ 	#table_list th{
+		background:#cccccc;
+		text-align:center;
+		font-size:14px;
+		font-weight:bold;
+		font-family:Arial,"ËÎÌå";
+		padding:5px;
+		border:1px solid #666;
+	}
+	  #table_list  td{
+		height:25px;
+		line-height:25px;
+		border:1px solid #666;
+		font-family:Arial,"ËÎÌå";
+		font-size:12px;
+		padding:2px 5px;
+	  }
+	  #table_list td:hover,tr:hover{
+		background:#f3f3ff;
+	  }
+	  #table_list td:link,tr:link{
+		background:#F2F2F4;
+	  }
+
+	  #table_layer{
+		border:0px;
+		width:100%;
+		vertical-align:inherit;
+		margin:20px 0px;
+	  }
+	  #table_layer .c_table_td_left{
+		background:#f9f9f9;
+		width:214px;
+		border:1px solid #D3D3D3;
+	  }
+	  #table_layer .c_table_td_right{
+		background:#ffffff;
+		font-family:Arial,"ËÎÌå";
+		font-size:12px;
+		padding-left:10px;
+	  }
+
+	  #table_form{
+		border:1px solid #666;
+		width:100%;
+		margin-top:10px;
+	  }
+	  #table_form .c_table_td_form{
+		background:#cccccc;
+		width:80px;
+		border:1px solid #D3D3D3;
+		height:25px;
+		line-height:25px;
+		border:1px solid #666;
+		font-family:Arial,"ËÎÌå";
+		font-size:12px;
+		padding:2px 5px;
+		text-align:right;
+	  }
+	  #table_form .c_table_td_input{
+		background:#f9f9f9;
+		border:1px solid #D3D3D3;
+		width:100%;
+		height:25px;
+		line-height:25px;
+		border:1px solid #666;
+		font-family:Arial,"ËÎÌå";
+		font-size:12px;
+		padding:2px 5px;
+		over-flow:hidden;
+	  }
+
+	  .tab{
+		padding-bottom:10px;
+	  }
+	  .tab-title{
+		float:left;
+		height:25px;
+		line-height:25px;
+	  	font-size:8px;
+		font-weight:bold;
+		font-family:Arial,"ËÎÌå";
+	  }
+	  .tab-role{
+		float:right;
+		height:25px;
+		line-height:25px;
+	  	font-size:8px;
+		font-weight:bold;
+		font-family:Arial,"ËÎÌå";
+	  }
+	  .tab-role input,select{
+		float:right;
+	  }
+
+	  .handle{
+		cursor:pointer;
+	  }
+	  .clearfix{
+		clear:both;
+	  }
+
+	  #image{
+		width:100%;
+	  }
+	  .img-list{
+		float:left;
+	  }
+	  .img-list li{
+		text-overflow £ºellipsis;
+		width: 116px;
+		height:210px;
+		float:left;
+		margin: 16px;
+		display: inline;
+		color: #888;
+		position: relative;
+	  }
+	  .image-book{
+		float:left;
+		padding:5px;
+		display: block;
+		padding: 2px;
+		border: 1px solid #cecece;
+		position: relative;
+
+	  }
+	  .image-book img{
+		width:112px;
+		height:139px;
+		border: 0;
+		vertical-align: top;
+	  }
+
+		.image-book  strong {
+			cursor: pointer;
+			position: absolute;
+			width: 125px;
+			height: 21px;
+			line-height: 21px;
+			left: -1px;
+			bottom: -1px;
+			padding-left: 9px;
+			color: #fff;
+			overflow: hidden;
+			font-family:Arial,"ËÎÌå";
+			font-weight:bold;
+			background: rgba(0,0,0,0.5);
+			filter: progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr='#7f000000', EndColorStr='#7f000000');
+			}
+			.imageitem .bookdesc{
+				text-overflow:ellipsis;
+				height: 35px;
+				line-height: 15px;
+				font-size:8px;
+				font-family:Arial,"ËÎÌå";
+			}
+			.imageitem  h1 {
+				height: 25px;
+				line-height: 27px;
+				overflow: hidden;
+				font-weight: normal;
+				display:block;
+				position: relative;
+
+			}

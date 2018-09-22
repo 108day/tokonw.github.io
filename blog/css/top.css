@@ -1,0 +1,68 @@
+.top{
+			width:100%;
+			padding:2px;
+			background:#ededed;
+			border-bottom:#c6c6c6 1px solid;
+			over-flow:hidden;
+			font-size:12px;
+			line-height:25px;
+			height:25px;
+		}
+		.top-content{
+			width:980px;
+			margin:0 auto;
+		}
+		.top-1 {
+			background:#ededed;
+			margin:0 auto;
+			width:300px;
+			float:left;
+		}
+		.top-1 a{
+			float:left;
+			padding-top:3px;
+			padding-bottom:2px;
+			padding-left:10px;
+			padding-right:10px;
+			font-weight:bold;
+			font-size:12px;
+				color:#666;
+		}
+		.top-1 a:hover{
+			float:left;
+			padding-top:3px;
+			padding-bottom:2px;
+			padding-left:10px;
+			padding-right:10px;
+			font-weight:bold;
+			font-size:12px;
+			color:#900;
+			cursor:pointer;
+		}
+		.top-2 {
+			background:#ededed;
+			width:300px;
+			margin:0 auto;
+			float:right;
+		}
+		.top-2 a{
+			float:right;
+			padding-top:3px;
+			padding-bottom:2px;
+			padding-left:10px;
+			padding-right:10px;
+			font-weight:bold;
+			font-size:12px;
+			color:#666;
+		}
+		.top-2 a:hover{
+			float:right;
+			padding-top:3px;
+			padding-bottom:2px;
+			padding-left:10px;
+			padding-right:10px;
+			font-weight:bold;
+			font-size:12px;
+			color:#900;
+			cursor:pointer;
+		}
