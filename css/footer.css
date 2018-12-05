@@ -4,32 +4,31 @@
 		}
 		.footer-content{
 			width:980px;
-			margin:auto;
-			margin-top:20px;
+			margin:0 auto;
 		}
-		.footer-first{
-			float:left;
-			width:300px;
+		.footer-content-first-layer{
+			margin:0 auto;
 			over-flow:hidden;
 			display:black;
 		}
-		.footer-scoend{
-			float:right;
-			width:300px;
-			over-flow:hidden;
-			display:black;
-		}
-		.footer-first a{
+		.footer-content-first-layer a{
 			float:left;
 			font-family:Arial,"??";
 			color:#666;
 			font-size:12px;
 			padding:5px;
 		}
-		.footer-scoend a{
-			float:right;
+		.footer-ul{
+			float:left;
+		}
+		.footer-ul li{
+			text-overflow £ºellipsis;
+			float:left;
+			display: inline;
+			color: #888;
+			position: relative;
 			font-family:Arial,"??";
 			color:#666;
 			font-size:12px;
 			padding:5px;
-		} 
+	  }
