@@ -1,0 +1,58 @@
+
+
+.head{
+	margin:0 auto;
+	width:1000px;
+	height:80px;
+}
+.head-logo{
+			float:left;
+			width:300px;
+			height:80px;
+			margin:8px;
+		}
+		.head-model{
+			float:left;
+			width:200px;
+			over-flow:hidden;
+		}
+		.head-model p{
+			font-weight:bold;
+			font-size:20px;
+			color:#990000;
+			padding:10px 5px 10px 5px;
+			over-flow:hidden;
+			font-family:Arial,"ËÎÌו";
+			margin:17px 5px 15px 5px;
+			float:left;
+		}
+	.head-search-input{
+			width:300px;
+			margin-top:30px;
+			float:right;
+			margin-right:10px;
+		}
+		.head .input-allsearch{
+			font-weight:bold;
+			font-size:16px;
+			height:30px;
+			width:300px;
+			border:1px solid #d3d3d3;
+		}
+		.head .button-allsearch{
+			width:50px;
+			height:30px;
+			border:1px solid #d3d3d3;
+			background:#e3e3e3;
+			font-size:14px;
+			font-weight:bold;
+			color:#990000;
+			display:inline;
+			cursor:pointer;
+		}
+		.head-search-button{
+			width:60px;
+			margin-top:30px;
+			float:right;
+			margin-right:10px;
+		}

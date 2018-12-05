@@ -1,0 +1,35 @@
+.footer{
+			background:#ededed;
+			
+		}
+		.footer-content{
+			width:980px;
+			margin:auto;
+			margin-top:20px;
+		}
+		.footer-first{
+			float:left;
+			width:300px;
+			over-flow:hidden;
+			display:black;
+		}
+		.footer-scoend{
+			float:right;
+			width:300px;
+			over-flow:hidden;
+			display:black;
+		}
+		.footer-first a{
+			float:left;
+			font-family:Arial,"??";
+			color:#666;
+			font-size:12px;
+			padding:5px;
+		}
+		.footer-scoend a{
+			float:right;
+			font-family:Arial,"??";
+			color:#666;
+			font-size:12px;
+			padding:5px;
+		} 
